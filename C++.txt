@@ -1,0 +1,21 @@
+Faça um programa para ler um conjunto de notas de alunos em cartões.
+Calcular e imprimir quantos alunos foram aprovados.
+Obs1: Para passar de ano a nota deve ser menor ou igual a 60.
+Obs2: O ultimo cartão (flag) tem o valor -1
+
+E01 = Insira o valor 0 em E08
+E02 = Pegue um cartão e copie o seu valor em E07
+E03 = Se o valor de E07 for igual a -1 avance para E09
+E04 = Se o valor de E07 for maior ou igual a 60 Some 1 ao valor de E08
+E05 = Volte para E02
+E06 =
+E07 = -1
+E08 = 2
+E09 = Imprimir o valor de E08
+E10 = Pare
+
+Valores dos cartões (Notas)
+*35
+*87
+*92
+*-1
