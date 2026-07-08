@@ -1,0 +1,14 @@
+include <iostream>
+
+using namespace std;
+
+int main () {
+    int valor;
+    int N;
+    cout << "Digite um numero: ";
+    cin >> N;
+    for (int valor = 0; valor <= 100; valor++)
+    cout << N * valor << endl;
+    
+    return 0;
+}    
