@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int N;
+    cin >> N;
+
+    if (N >= 50)
+        cout << "Ativar escudos";
+    else
+        cout << "Susse no musse";
+
+    return 0;
+}
