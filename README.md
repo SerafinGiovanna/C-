@@ -16,6 +16,7 @@ Neste Repositorio vai conter os exercicios usados como exemplos e o conteúdos d
  ###### ----------------------------------------------------------------------
  - [Exercício 1 - Calculadora](#Calculadora)
  - [Exercício 2 - Escudos](#Escudos)
+ - [Exercício 3 - Programa](#Programa)
   ###### ----------------------------------------------------------------------
 
 
